@@ -1,5 +1,5 @@
 # CodeAlpha_Credit_Scoring_Model
-Credit Scoring Model
+Credit Scoring Model :- 
 
 A credit scoring model is a statistical tool used by financial institutions which have became an essential tools in modern finance, playing a crucial role in lending decisions, risk management, and financial inclusion, is used for both checking whether to give a loan to a customer and determining if the customer is worth taking the loan. In other words we can say as A credit scoring model is a tool to evaluate the creditworthiness of potential borrowers.
 
